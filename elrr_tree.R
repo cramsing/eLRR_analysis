@@ -7,7 +7,7 @@ library(ggtree)
 library(dplyr)
 library(treeio)
 
-tree <- read.iqtree("alignments.treefile")
+tree <- read.iqtree(".../tree_files/alignments.treefile")
 
 tree_data <- fortify(tree)
 # Check  tip labels first
@@ -59,24 +59,21 @@ chaindf <- data.frame(
   end         = w
 )
 
-tq <- read_gff3("gffs/tqxxx.gff")
 qst <- read_gff3("gffs/qxxst.gff")
 lrrs <- read_gff3("gffs/lrrpred.gff")
 interpro <- read_gff3("gffs/interpro.gff")
 sp <- interpro %>% filter(name ==  "SIGNAL_PEPTIDE")
 
-head(tq)
 head(qst)
 head(lrrs)
 head(sp)
 #select only essential columns
-tq <- tq %>% select(seq_id, start, end, strand, type, source, score, sequence)
 qst <- qst %>% select(seq_id, start, end, strand, type, source, score, sequence)
 lrrs <- lrrs %>% select(seq_id, start, end, strand, type, source, score, sequence)
 sp <- sp %>% select(seq_id, start, end, strand, type, source, score)
 sp$sequence <- NA
 #combined <- rbind(tq, qst, lrrs, sp) #got error there were unequal columns even though this was not true
-combined <- bind_rows(tq, qst, lrrs, sp, chaindf)
+combined <- bind_rows(qst, lrrs, sp, chaindf)
 
 
 head(combined)
@@ -95,12 +92,9 @@ head(combined)
 unique(combined$description)
 #[1] "TQ..."            "Q[A-Za-z]{2}[TS]" "LRR"              "signal_peptide"   "CHAIN" 
 combined <- combined %>% mutate(description = recode(description,
-                                                     "TQ..." = "TQxxx",
                                                      "Q[A-Za-z]{2}[TS]" = "QxxS/T",
                                                      "signal_peptide" = "Signal Peptide"))
 
-
-combined <- combined %>% filter(description != "TQxxx")
                                 
 # Get tip order from tree
 tip_order <- tree_joined %>%
