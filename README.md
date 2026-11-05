@@ -21,6 +21,10 @@ Figure2.md walks through all the code used to make Figure2B and C. All accompany
 
 
 ### R packages:
+-R Studio 2026.09.0+174 Posit team (2026). RStudio: Integrated Development Environment for R. Posit Software, PBC, Boston,
+  MA. URL http://www.posit.co/.
+-R 4.5.0 R Core Team (2025). _R: A Language and Environment for Statistical Computing_. R Foundation for
+  Statistical Computing, Vienna, Austria. <https://www.R-project.org/>.
  - Brennan P (2018). “drawProteins: a Bioconductor/R package for reproducible and programmatic generation of protein schematics [version 1; referees: 2 approved].” _F1000Research_, *7*, 1105. doi:10.12688/f1000research.14541.1 <https://doi.org/10.12688/f1000research.14541.1>, <https://f1000research.com/articles/7-1105/v1>.
   - Hackl T, Ankenbrand M, van Adrichem B, Wilkins D, Haslinger K (2024). “gggenomes: effective and versatile visualizations for comparative genomics.” _arXiv_. doi:10.48550/arXiv.2411.13556 <https://doi.org/10.48550/arXiv.2411.13556>.
   - Huber, W., Carey, J. V, Gentleman, R., Anders, S., Carlson, M., Carvalho, S. B, Bravo, C. H, Davis, S., Gatto, L., Girke, T., Gottardo, R., Hahne, F., Hansen, D. K, Irizarry, A. R, Lawrence, M., Love, I. M, MacDonald, J., Obenchain, V., Ole's, K. A, Pag`es, H., Reyes, A., Shannon, P., Smyth, K. G, Tenenbaum, D., Waldron, L., Morgan, M. (2015). “Orchestrating high-throughput genomic analysis with Bioconductor.” _Nature Methods_, *12*(2), 115-121. <http://www.nature.com/nmeth/journal/v12/n2/full/nmeth.3252.html>.
