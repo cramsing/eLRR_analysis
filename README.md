@@ -18,7 +18,7 @@ Figure2.md walks through all the code used to make Figure2B and C. All accompany
 - IQtree MAST model - Thomas KF Wong, Caitlin Cherryh, Allen G Rodrigo, Matthew W Hahn, Bui Quang Minh, Robert Lanfear (2024) MAST: Phylogenetic Inference with Mixtures Across Sites and Trees. Syst. Biol., 73:375–391. https://doi.org/10.1093/sysbio/syae008
 - phytolrr - Chen, T. Identification and characterization of the LRR repeats in plant LRR-RLKs. BMC Mol and Cell Biol 22, 9 (2021). https://doi.org/10.1186/s12860-021-00344-y
 - seqkit - Shen W, Le S, Li Y, Hu F (2016) SeqKit: A Cross-Platform and Ultrafast Toolkit for FASTA/Q File Manipulation. PLOS ONE 11(10): e0163962. https://doi.org/10.1371/journal.pone.0163962
-
+- Pymol The PyMOL Molecular Graphics System, Version 3.0 Schrödinger, LLC.
 
 ### R packages:
 -R Studio 2026.09.0+174 Posit team (2026). RStudio: Integrated Development Environment for R. Posit Software, PBC, Boston,
