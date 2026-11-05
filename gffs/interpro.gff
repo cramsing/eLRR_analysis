@@ -1,0 +1,322 @@
+##gff-version 3.1.26
+##interpro-version 110.0
+##interproscan-version 6.0.2.2
+##sequence-region Pl_sLRR 1 295
+Pl_sLRR	Pfam	polypeptide_region	27	66	3.4E-5	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+Pl_sLRR	Pfam	polypeptide_domain	241	261	960.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Pl_sLRR	Pfam	polypeptide_domain	145	164	1700.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Pl_sLRR	Pfam	polypeptide_domain	121	140	2000.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Pl_sLRR	Pfam	polypeptide_domain	195	214	2600.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Pl_sLRR	SUPERFAMILY	polypeptide_domain	26	279	2.44E-48	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+Pl_sLRR	CATH-Gene3D	polypeptide_domain	26	193	5.5E-36	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+Pl_sLRR	CATH-Gene3D	polypeptide_domain	194	290	9.2E-25	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+Pl_sLRR	Phobius	signal_peptide	1	15	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+Pl_sLRR	Phobius	signal_peptide	1	1	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+Pl_sLRR	Phobius	signal_peptide	2	10	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+Pl_sLRR	Phobius	signal_peptide	11	15	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+Pl_sLRR	Phobius	non_cytoplasmic_polypeptide_region	16	295	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+Pl_sLRR	PANTHER	polypeptide_region	22	280	1.3E-82	.	.	Name=PTHR32093;Dbxref=InterPro:IPR051582;type=Family;representative=true
+Pl_sLRR	CATH-FunFam	polypeptide_domain	28	143	1.1E-17	.	.	Name=G3DSA:3.80.10.10:FF:000129;type=Region;representative=false
+Pl_sLRR	CATH-FunFam	polypeptide_domain	195	280	3.3E-22	.	.	Name=G3DSA:3.80.10.10:FF:000041;type=Region;representative=false
+##sequence-region TaLRRP1 1 211
+TaLRRP1	CATH-FunFam	polypeptide_domain	20	206	8.1E-89	.	.	Name=G3DSA:3.80.10.10:FF:000024;type=Region;representative=false
+TaLRRP1	CATH-Gene3D	polypeptide_domain	20	204	1.3E-60	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+TaLRRP1	PANTHER	polypeptide_region	7	195	2.5E-67	.	.	Name=PTHR47988;type=Family;representative=true
+TaLRRP1	Pfam	polypeptide_domain	69	165	1.2E-9	.	.	Name=LRR_14;Alias=PF23598;Dbxref=InterPro:IPR055414;type=Repeat;representative=false
+TaLRRP1	Pfam	polypeptide_region	22	61	4.4E-9	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+TaLRRP1	Phobius	signal_peptide	1	19	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+TaLRRP1	Phobius	signal_peptide	1	2	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+TaLRRP1	Phobius	signal_peptide	3	14	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+TaLRRP1	Phobius	signal_peptide	15	19	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+TaLRRP1	Phobius	non_cytoplasmic_polypeptide_region	20	211	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+TaLRRP1	SUPERFAMILY	polypeptide_domain	23	181	9.07E-40	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region NbLRRP1 1 216
+NbLRRP1	Pfam	polypeptide_domain	74	171	3.7E-11	.	.	Name=LRR_14;Alias=PF23598;Dbxref=InterPro:IPR055414;type=Repeat;representative=false
+NbLRRP1	Pfam	polypeptide_region	26	65	1.9E-9	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+NbLRRP1	SUPERFAMILY	polypeptide_domain	27	186	6.43E-40	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+NbLRRP1	CATH-Gene3D	polypeptide_domain	25	207	1.1E-61	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+NbLRRP1	Phobius	signal_peptide	1	25	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+NbLRRP1	Phobius	signal_peptide	1	9	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+NbLRRP1	Phobius	signal_peptide	10	20	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+NbLRRP1	Phobius	signal_peptide	21	25	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+NbLRRP1	Phobius	non_cytoplasmic_polypeptide_region	26	216	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+NbLRRP1	PANTHER	polypeptide_region	12	184	2.6E-70	.	.	Name=PTHR47988;type=Family;representative=true
+NbLRRP1	CATH-FunFam	polypeptide_domain	24	210	2.6E-89	.	.	Name=G3DSA:3.80.10.10:FF:000024;type=Region;representative=false
+##sequence-region OsLRR2 1 250
+OsLRR2	CATH-FunFam	polypeptide_domain	24	160	6.4E-59	.	.	Name=G3DSA:3.80.10.10:FF:000024;type=Region;representative=false
+OsLRR2	CATH-FunFam	polypeptide_domain	171	245	2.9E-31	.	.	Name=G3DSA:3.80.10.10:FF:000864;type=Region;representative=false
+OsLRR2	CATH-Gene3D	polypeptide_domain	24	170	7.7E-45	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+OsLRR2	CATH-Gene3D	polypeptide_domain	171	248	2.0E-13	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+OsLRR2	PANTHER	polypeptide_region	12	147	1.5E-46	.	.	Name=PTHR47988;type=Family;representative=true
+OsLRR2	Pfam	polypeptide_domain	85	222	4.1E-8	.	.	Name=LRR_14;Alias=PF23598;Dbxref=InterPro:IPR055414;type=Repeat;representative=false
+OsLRR2	Pfam	polypeptide_region	26	65	8.0E-5	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+OsLRR2	Phobius	signal_peptide	1	25	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+OsLRR2	Phobius	signal_peptide	1	6	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+OsLRR2	Phobius	signal_peptide	7	20	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+OsLRR2	Phobius	signal_peptide	21	25	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+OsLRR2	Phobius	non_cytoplasmic_polypeptide_region	26	250	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+OsLRR2	SUPERFAMILY	polypeptide_domain	29	230	1.32E-41	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region MdLRRP1 1 216
+MdLRRP1	CATH-FunFam	polypeptide_domain	24	210	1.8E-90	.	.	Name=G3DSA:3.80.10.10:FF:000024;type=Region;representative=false
+MdLRRP1	CATH-Gene3D	polypeptide_domain	24	207	4.6E-61	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+MdLRRP1	PANTHER	polypeptide_region	9	197	2.8E-69	.	.	Name=PTHR47988;type=Family;representative=true
+MdLRRP1	Pfam	polypeptide_domain	74	171	8.9E-11	.	.	Name=LRR_14;Alias=PF23598;Dbxref=InterPro:IPR055414;type=Repeat;representative=false
+MdLRRP1	Pfam	polypeptide_region	26	65	9.1E-9	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+MdLRRP1	Phobius	signal_peptide	1	25	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+MdLRRP1	Phobius	signal_peptide	1	6	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+MdLRRP1	Phobius	signal_peptide	7	20	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+MdLRRP1	Phobius	signal_peptide	21	25	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+MdLRRP1	Phobius	non_cytoplasmic_polypeptide_region	26	216	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+MdLRRP1	SUPERFAMILY	polypeptide_domain	26	188	3.16E-39	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region NtLRP1 1 232
+NtLRP1	CATH-FunFam	polypeptide_domain	27	212	1.7E-94	.	.	Name=G3DSA:3.80.10.10:FF:000024;type=Region;representative=false
+NtLRP1	CATH-Gene3D	polypeptide_domain	28	206	1.1E-56	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+NtLRP1	PANTHER	polypeptide_region	13	190	4.6E-70	.	.	Name=PTHR47988;type=Family;representative=true
+NtLRP1	Pfam	polypeptide_region	31	68	3.0E-8	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+NtLRP1	Pfam	polypeptide_domain	96	118	25.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+NtLRP1	Pfam	polypeptide_domain	120	142	380.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+NtLRP1	Pfam	polypeptide_domain	144	163	2000.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+NtLRP1	Pfam	polypeptide_domain	168	184	32.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+NtLRP1	Phobius	signal_peptide	1	28	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+NtLRP1	Phobius	signal_peptide	1	4	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+NtLRP1	Phobius	signal_peptide	5	23	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+NtLRP1	Phobius	signal_peptide	24	28	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+NtLRP1	Phobius	non_cytoplasmic_polypeptide_region	29	232	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+NtLRP1	SUPERFAMILY	polypeptide_domain	31	205	3.97E-36	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region OsLRR1 1 213
+OsLRR1	CATH-FunFam	polypeptide_domain	22	208	1.7E-89	.	.	Name=G3DSA:3.80.10.10:FF:000024;type=Region;representative=false
+OsLRR1	CATH-Gene3D	polypeptide_domain	22	206	2.5E-61	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+OsLRR1	PANTHER	polypeptide_region	12	185	3.8E-68	.	.	Name=PTHR47988;type=Family;representative=true
+OsLRR1	Phobius	non_cytoplasmic_polypeptide_region	26	213	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+OsLRR1	Pfam	polypeptide_domain	71	169	2.0E-10	.	.	Name=LRR_14;Alias=PF23598;Dbxref=InterPro:IPR055414;type=Repeat;representative=false
+OsLRR1	Pfam	polypeptide_region	24	63	4.5E-9	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+OsLRR1	Phobius	signal_peptide	1	25	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+OsLRR1	Phobius	signal_peptide	1	2	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+OsLRR1	Phobius	signal_peptide	3	18	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+OsLRR1	Phobius	signal_peptide	19	25	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+OsLRR1	SUPERFAMILY	polypeptide_domain	25	182	8.08E-40	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region OsLRRP1 1 213
+OsLRRP1	CATH-FunFam	polypeptide_domain	22	208	1.7E-89	.	.	Name=G3DSA:3.80.10.10:FF:000024;type=Region;representative=false
+OsLRRP1	CATH-Gene3D	polypeptide_domain	22	206	2.5E-61	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+OsLRRP1	PANTHER	polypeptide_region	12	185	3.8E-68	.	.	Name=PTHR47988;type=Family;representative=true
+OsLRRP1	Phobius	non_cytoplasmic_polypeptide_region	26	213	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+OsLRRP1	Pfam	polypeptide_domain	71	169	2.0E-10	.	.	Name=LRR_14;Alias=PF23598;Dbxref=InterPro:IPR055414;type=Repeat;representative=false
+OsLRRP1	Pfam	polypeptide_region	24	63	4.5E-9	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+OsLRRP1	Phobius	signal_peptide	1	25	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+OsLRRP1	Phobius	signal_peptide	1	2	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+OsLRRP1	Phobius	signal_peptide	3	18	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+OsLRRP1	Phobius	signal_peptide	19	25	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+OsLRRP1	SUPERFAMILY	polypeptide_domain	25	182	8.08E-40	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region Co_sLRR 1 317
+Co_sLRR	CATH-Gene3D	polypeptide_domain	30	175	9.8E-23	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+Co_sLRR	CATH-Gene3D	polypeptide_domain	176	316	2.2E-27	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+Co_sLRR	PANTHER	polypeptide_region	26	316	2.2E-93	.	.	Name=PTHR32093;Dbxref=InterPro:IPR051582;type=Family;representative=true
+Co_sLRR	Pfam	polypeptide_domain	129	147	570.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Co_sLRR	Pfam	polypeptide_domain	151	171	4600.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Co_sLRR	Pfam	polypeptide_domain	244	266	43.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Co_sLRR	Phobius	signal_peptide	1	18	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+Co_sLRR	Phobius	signal_peptide	1	3	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+Co_sLRR	Phobius	signal_peptide	4	14	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+Co_sLRR	Phobius	signal_peptide	15	18	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+Co_sLRR	Phobius	non_cytoplasmic_polypeptide_region	19	317	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+Co_sLRR	SUPERFAMILY	polypeptide_domain	34	303	3.0E-41	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region Rc_sLRR 1 329
+Rc_sLRR	CATH-Gene3D	polypeptide_domain	31	204	4.8E-31	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+Rc_sLRR	CATH-Gene3D	polypeptide_domain	205	315	7.8E-16	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+Rc_sLRR	PANTHER	polypeptide_region	27	327	4.3E-74	.	.	Name=PTHR32093;Dbxref=InterPro:IPR051582;type=Family;representative=true
+Rc_sLRR	Pfam	polypeptide_domain	157	175	260.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Rc_sLRR	Pfam	polypeptide_domain	183	202	450.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Rc_sLRR	Pfam	polypeptide_domain	208	225	3700.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Rc_sLRR	Phobius	signal_peptide	1	22	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+Rc_sLRR	Phobius	signal_peptide	1	5	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+Rc_sLRR	Phobius	signal_peptide	6	17	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+Rc_sLRR	Phobius	signal_peptide	18	22	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+Rc_sLRR	Phobius	non_cytoplasmic_polypeptide_region	23	329	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+Rc_sLRR	SUPERFAMILY	polypeptide_domain	37	315	1.4E-37	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region Rcc_sLRR 1 277
+Rcc_sLRR	CATH-Gene3D	polypeptide_domain	31	199	3.4E-25	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+Rcc_sLRR	CATH-Gene3D	polypeptide_domain	200	272	6.8E-13	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+Rcc_sLRR	PANTHER	polypeptide_region	24	269	1.7E-74	.	.	Name=PTHR32093;Dbxref=InterPro:IPR051582;type=Family;representative=true
+Rcc_sLRR	Pfam	polypeptide_region	33	68	0.016	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+Rcc_sLRR	Pfam	polypeptide_domain	127	143	820.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Rcc_sLRR	Pfam	polypeptide_domain	202	221	1400.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Rcc_sLRR	Pfam	polypeptide_domain	225	246	2500.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Rcc_sLRR	Phobius	signal_peptide	1	19	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+Rcc_sLRR	Phobius	signal_peptide	1	6	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+Rcc_sLRR	Phobius	signal_peptide	7	14	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+Rcc_sLRR	Phobius	signal_peptide	15	19	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+Rcc_sLRR	Phobius	non_cytoplasmic_polypeptide_region	20	277	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+Rcc_sLRR	SUPERFAMILY	polypeptide_domain	41	259	7.56E-29	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region ZtLRR 1 278
+ZtLRR	CATH-Gene3D	polypeptide_domain	26	195	6.4E-28	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+ZtLRR	CATH-Gene3D	polypeptide_domain	196	261	1.0E-10	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+ZtLRR	PANTHER	polypeptide_region	102	255	1.8E-28	.	.	Name=PTHR48052;type=Family;representative=true
+ZtLRR	Pfam	polypeptide_domain	127	144	1600.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+ZtLRR	Pfam	polypeptide_domain	152	171	100.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+ZtLRR	Pfam	polypeptide_domain	199	219	4900.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+ZtLRR	Phobius	signal_peptide	1	19	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+ZtLRR	Phobius	signal_peptide	1	2	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+ZtLRR	Phobius	signal_peptide	3	14	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+ZtLRR	Phobius	signal_peptide	15	19	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+ZtLRR	Phobius	non_cytoplasmic_polypeptide_region	20	278	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+ZtLRR	PRINTS	polypeptide_motif	128	141	5.5E-5	.	.	Name=LEURICHRPT;Alias=PR00019;type=Repeat;representative=false
+ZtLRR	PRINTS	polypeptide_motif	150	163	5.5E-5	.	.	Name=LEURICHRPT;Alias=PR00019;type=Repeat;representative=false
+ZtLRR	SUPERFAMILY	polypeptide_domain	29	254	6.8E-30	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region CaLRR1 1 197
+CaLRR1	CATH-FunFam	polypeptide_domain	19	196	3.3E-65	.	.	Name=G3DSA:3.80.10.10:FF:000024;type=Region;representative=false
+CaLRR1	CATH-Gene3D	polypeptide_domain	19	191	1.6E-45	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+CaLRR1	PANTHER	polypeptide_region	6	180	1.0E-55	.	.	Name=PTHR47988;type=Family;representative=true
+CaLRR1	Pfam	polypeptide_region	21	60	2.4E-8	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+CaLRR1	Pfam	polypeptide_domain	88	147	8.3E-4	.	.	Name=LRR_8;Alias=PF13855;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+CaLRR1	Phobius	signal_peptide	1	22	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+CaLRR1	Phobius	signal_peptide	1	2	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+CaLRR1	Phobius	signal_peptide	3	14	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+CaLRR1	Phobius	signal_peptide	15	22	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+CaLRR1	Phobius	non_cytoplasmic_polypeptide_region	23	197	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+CaLRR1	SUPERFAMILY	polypeptide_domain	21	179	6.38E-30	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region Fo_sLRR 1 317
+Fo_sLRR	Pfam	polypeptide_domain	127	145	560.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Fo_sLRR	Pfam	polypeptide_domain	267	289	970.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Fo_sLRR	Pfam	polypeptide_domain	198	216	1100.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Fo_sLRR	Pfam	polypeptide_domain	243	265	1100.0	.	.	Name=LRR_1;Alias=PF00560;Dbxref=InterPro:IPR001611;Ontology_term=GO:0005515;type=Repeat;representative=false
+Fo_sLRR	SUPERFAMILY	polypeptide_domain	37	303	5.35E-34	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+Fo_sLRR	CATH-Gene3D	polypeptide_domain	32	196	2.7E-21	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+Fo_sLRR	CATH-Gene3D	polypeptide_domain	197	316	3.3E-24	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+Fo_sLRR	Phobius	signal_peptide	1	16	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+Fo_sLRR	Phobius	signal_peptide	1	1	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+Fo_sLRR	Phobius	signal_peptide	2	10	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+Fo_sLRR	Phobius	signal_peptide	11	16	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+Fo_sLRR	Phobius	non_cytoplasmic_polypeptide_region	17	317	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+Fo_sLRR	PANTHER	polypeptide_region	37	308	1.2E-82	.	.	Name=PTHR32093;Dbxref=InterPro:IPR051582;type=Family;representative=true
+##sequence-region PaLRRP1 1 215
+PaLRRP1	CATH-FunFam	polypeptide_domain	23	209	1.4E-89	.	.	Name=G3DSA:3.80.10.10:FF:000024;type=Region;representative=false
+PaLRRP1	CATH-Gene3D	polypeptide_domain	23	206	5.5E-61	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+PaLRRP1	PANTHER	polypeptide_region	10	189	1.3E-68	.	.	Name=PTHR47988;type=Family;representative=true
+PaLRRP1	Pfam	polypeptide_domain	72	171	3.0E-11	.	.	Name=LRR_14;Alias=PF23598;Dbxref=InterPro:IPR055414;type=Repeat;representative=false
+PaLRRP1	Pfam	polypeptide_region	25	64	5.7E-9	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+PaLRRP1	Phobius	signal_peptide	1	24	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+PaLRRP1	Phobius	signal_peptide	1	6	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+PaLRRP1	Phobius	signal_peptide	7	19	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+PaLRRP1	Phobius	signal_peptide	20	24	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+PaLRRP1	Phobius	non_cytoplasmic_polypeptide_region	25	215	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+PaLRRP1	SUPERFAMILY	polypeptide_domain	26	187	5.1E-39	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region AtLRRP1 1 218
+AtLRRP1	CATH-FunFam	polypeptide_domain	26	212	1.8E-91	.	.	Name=G3DSA:3.80.10.10:FF:000024;type=Region;representative=false
+AtLRRP1	CATH-Gene3D	polypeptide_domain	26	209	1.7E-60	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+AtLRRP1	PANTHER	polypeptide_region	12	186	4.0E-68	.	.	Name=PTHR47988;type=Family;representative=true
+AtLRRP1	Pfam	polypeptide_domain	76	175	1.3E-9	.	.	Name=LRR_14;Alias=PF23598;Dbxref=InterPro:IPR055414;type=Repeat;representative=false
+AtLRRP1	Pfam	polypeptide_region	28	67	1.9E-9	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+AtLRRP1	Phobius	signal_peptide	1	27	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+AtLRRP1	Phobius	signal_peptide	1	9	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+AtLRRP1	Phobius	signal_peptide	10	22	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+AtLRRP1	Phobius	signal_peptide	23	27	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+AtLRRP1	Phobius	non_cytoplasmic_polypeptide_region	28	218	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+AtLRRP1	SUPERFAMILY	polypeptide_domain	28	192	7.78E-39	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##sequence-region LRP 1 221
+LRP	CATH-FunFam	polypeptide_domain	29	215	4.1E-90	.	.	Name=G3DSA:3.80.10.10:FF:000024;type=Region;representative=false
+LRP	CATH-Gene3D	polypeptide_domain	30	212	3.5E-60	.	.	Name=G3DSA:3.80.10.10;Dbxref=InterPro:IPR032675;type=Homologous_superfamily;representative=true
+LRP	PANTHER	polypeptide_region	15	189	5.2E-70	.	.	Name=PTHR47988;type=Family;representative=true
+LRP	Pfam	polypeptide_domain	79	177	6.7E-12	.	.	Name=LRR_14;Alias=PF23598;Dbxref=InterPro:IPR055414;type=Repeat;representative=false
+LRP	Pfam	polypeptide_region	31	70	1.7E-9	.	.	Name=LRRNT_2;Alias=PF08263;Dbxref=InterPro:IPR013210;type=Family;representative=false
+LRP	Phobius	signal_peptide	1	27	.	.	.	Name=SIGNAL_PEPTIDE;type=Region;representative=false
+LRP	Phobius	signal_peptide	1	9	.	.	.	Name=SIGNAL_PEPTIDE_N_REGION;type=Region;representative=false
+LRP	Phobius	signal_peptide	10	22	.	.	.	Name=SIGNAL_PEPTIDE_H_REGION;type=Region;representative=false
+LRP	Phobius	signal_peptide	23	27	.	.	.	Name=SIGNAL_PEPTIDE_C_REGION;type=Region;representative=false
+LRP	Phobius	non_cytoplasmic_polypeptide_region	28	221	.	.	.	Name=NON_CYTOPLASMIC_DOMAIN;type=Region;representative=false
+LRP	SUPERFAMILY	polypeptide_domain	32	190	1.49E-38	.	.	Name=SSF52058;type=Homologous_superfamily;representative=false
+##FASTA
+>Pl_sLRR
+MLSLIILALGALAQCAPTTLHTRATLDQDLKVLQAFAKTVDSPSNITANWTTAGTDLCAW
+SGVVCDDKHTTVIGLNFNQDKLTGSSLSLTDLIDKLPTLTFFHANSNNFAGTIPSLRNLN
+NLLELDVSNNTLSGAFPTAIFTAPNLEFIDLRFNQFTSSLPAEIFTSFPNADVLFLNNNA
+FTGSLPSEISSYPGRYLSLANNKFYGPIPSSITQMKNLNEILLLGNELTGSLPSGLGKLD
+QLTVFDVSGNQLEGRVPEELCAIESLQVLGLKGNRFEGELGPRCEEARRKGVLEI
+>TaLRRP1
+MAAGALVLALVAALAVALAGANSEGDALSALRRSLRDPGGVLQSWDPTLVNPCTWFHVTC
+DRDNRVTRLDLGNLNLSGHLVPELGKLEHLQYLELYKNNIEGTIPSELGDLKNLISLDLY
+KNNVSGTIPPTLGKLKSLVFLRLNGNRLTGPIPRELAGISSLKVVDVSGNNLCGTIPTTG
+PFEHIPLSNFERNPRLEGPELQGLAVYETNC
+>NbLRRP1
+MAAVIETQSLGFLVIVLALAASVRGNSEGDALYALRRSLSDPDNVLQSWDPNLVNPCTWF
+HVTCNGDNHVTRVDLGNSKLSGHLVPELGKLEHLQYLELYKNNIQGTIPKELGNLKSLIS
+LDLYNNNISGTIPPSLGKLKNLVFLRLNDNQLTGPIPREFSSVSSLKVVDVSNNNLCGTI
+PTSGPFEHIPLNNFEHNPRLEGPELLGLASYDTNCS
+>OsLRR2
+MGAHSSAAAAALFTGFLALATLVSCNTEGDILYAQRLAWKDPFNVLQSWDPTLVNPCTWF
+HVTCNNNNSVVRVDLGLAGLSGPLIPQLGGLSYLQYLELYGNELNGSIPAALGNLSSLVS
+LDLQGNLLTGAIPDSLGAISTLRNLRLYGNNLTGTIPQSLGSLTSLVKLELQKNSLSGTI
+PASLGNIKTLELLRLNKNSLTGTVPMEVLSLVLVGNLTELNVAGNNLDGTVGSTGWRVTT
+IIQDNLKTSG
+>MdLRRP1
+MAAASRFFFTLTLTLSVCLLPLVYANSEGDALYTFRRSLSDPDNLLQSWDPTLVNPCTWF
+HITCNQDNRVTRVDLGNSNLSGHLVPELGKLEHLQYLELYKNNIQGTIPAELGNLKSLIS
+LDLYNNNISGTIPPSLGKLKSLVFLRLNDNRLTGPIPRDLTGISSLKVVDVSNNNLCGTI
+PTSGPFEHIPLNNFENNHRLEGPELLGLASYDTNCS
+>NtLRP1
+MDQWILGILGFVSAFLCLIGLLLVPVSANIEGDALNALKTNLADPNNVLQSWDPTLVNPC
+TWFHVTCNSENSVTRVDLGNANLSGQLVPQLGQLPNLQYLELYSNNISGRIPFELGNLTN
+LVSLDLYLNRLNGPIPDTLGKLQKLRFLRLNNNSLNGRIPMLLTTVISLQVLDLSNNNLT
+GPVPVNGSFSLFTPISFANNQLDILPAAPPPPISPTPPSSSGLLKIIYAFMG
+>OsLRR1
+MGAGALGVVAMVAAAVVVAMAGANSEGDALSALRRSLRDPGGVLQSWDPTLVNPCTWFHV
+TCDRDNRVTRLDLGNLNLSGHLVPELGKLDHLQYLELYKNNIQGTIPSELGNLKNLISLD
+LYKNNISGTIPPTLGKLTSLVFLRLNGNRLTGPIPRELAGISSLKVVDVSSNDLCGTIPT
+SGPFEHIPLSNFEKNPRLEGPELQGLAVYDTNC
+>OsLRRP1
+MGAGALGVVAMVAAAVVVAMAGANSEGDALSALRRSLRDPGGVLQSWDPTLVNPCTWFHV
+TCDRDNRVTRLDLGNLNLSGHLVPELGKLDHLQYLELYKNNIQGTIPSELGNLKNLISLD
+LYKNNISGTIPPTLGKLTSLVFLRLNGNRLTGPIPRELAGISSLKVVDVSSNDLCGTIPT
+SGPFEHIPLSNFEKNPRLEGPELQGLAVYDTNC
+>Co_sLRR
+MVPFTLLISSLLCAPALAAPATTGGDSNLHRDLLLVQSFKKQITSDPHGYTRNWTGNDVC
+KFGGFRCADNPNTGLKALSGIDLNNFELEGNPLKLEGFLDKLTDLTFFHANTNGFTGELP
+KDLSALKWLWELDLSSNQLSGPFPEAVLNANLVFLDLRFNGFDGPLPEKLFELDLDTIFL
+NDNKFGGSIPATIGSTPARYITLANNQFKGRIPETLGNAKSLEEILLLGNRLSGPLPTVY
+KTENLTVFDVSNNKLSGPVPEALCELKKVQLVNLTNNNFDGALGPACAKLVENDVLDVSN
+NCIKGAKGQKSASECTK
+>Rc_sLRR
+MSPVPSLPWSFLALALCTSALAAPTVNNLARDLATVNAFKTRITHDPENALKTWVGSNVC
+TYEGFVCQKNPDNKNQVQLSSLDFNNFEFGGALGKPTHVVLTGFLEKLVDLSIIHLNDNQ
+FVGTLPDTSGLPNLVELDASANYFSGTFPRTVFHNPNLKFLDLRFNQFTGPIPDQVFTTY
+KDIETLNLNDNHFSGPIPNSVGATQASFLSLANNPLSGPIPASLAQAPYLEEALLKNCGL
+SGTIPKQLGAGKLLRSIDASQNRLTGGVPEEVCVDTKAKDKFLDFSNNFLTVPLGPKCQA
+LHASKGLIVTGNCIPGYWKQRPAAECKGH
+>Rcc_sLRR
+MSSFIRSVFLLALAGTIQAAPARRATENHLVRDLRTLTKFGQKVTLDPNGTTASWTGTDV
+CKFSGVYCAESPAGYEAVASIDINGAQLGQNLVLDGVLDKLTDLALFHANSNGFVGTIPD
+LSKLEYLYEIDLSNNQLSGTFPTTVLDRPLAFLDLRYNAFSGEVPTQVFQPSSYQGYSVE
+VIFLNNNKFSGALPEFGAINSTYISLANNQFTGPIPASIANVVGLKELLLLGNQLTGTVP
+EALCELHLDVLDVSGNNLDATLGPKCQALKAAGVLVI
+>ZtLRR
+MSFTVNTFLSLALASIATALPDYSHIDRDQLILLDVKHDVTSDPTSALASWDEKAYLCTF
+DHTTCTYDTANERPLLIGLDLSHLHLSGPSSHPLGINFLPYLEDLTSFTASENTFTGELA
+DIPLPSKLSTIDISFNQLTGSIPDPAVWELDSLQSLDLGYNRLSGNLPSTIFAQKDLHLL
+FVPNNKLGGAIPEFAHTALRVVSLASCSFTGAIPKSIGKAKNLEEVYFDGNAGLNGKVPE
+ELCSLPKLRSADLTKTGVDKSRLGPACQKAQKAGVLKL
+>CaLRR1
+MRFIALVFLVGALAIIAVECNSEGDALNAFKMNMLDPNNALQSWDPTLVNPCTWLHVTCN
+IQNSVTRVDLGGANLSGILTPQLGVLYNLQYLQVENNSISGAIPRELRNLTNLLSLGLEN
+NKLSGTIPSSLGNLKSLRWMRLNSNRLSGEIPISVLKLVLWGNLQLMNVSDNKLAGTVPL
+ANKTGFAITTIVQDMKA
+>Fo_sLRR
+MLSLFFSLLLSTQALGSLVKTPHAQHTHLGPLQEDAELALALKKKITSDHTGITKSWTGN
+DICTFQGFNCSTDPSTHQTVVLVDFNELELDGKDLTLFGLLDKLRDTTIFHANGNGFRGG
+VPKLPPNLFELDLSDNKLSGPFPETVLVPSLDFLDLRFNQFHGPVPPKAFDLDVFALFLN
+NNKFSGRIPENIGSSPAEFINLANNKLSGSIPRSLGRSEWLQEFLVLNNQLSGPLPTEWT
+STNLTAFDVSYNALTGQVPEALCQLENIQIINLSHNHFSGTLGPACTKLVSEKVLDISNN
+CIKGAKNQKHASSCKGK
+>PaLRRP1
+MAAQAWLWTSLTVALTFILTVVNGNSEGDALFTLRKSLSDPDNVLQSWDPTLVNPCTWFH
+ITCNQDNRVTRLDLGNSNLSGHLVPELGKLEHLQYLELYKNNIQGTIPSELGSLKSLISL
+DLYNNNISGTIPPSLGRLKSLVFLRLNDNQLTGSIPRELSNVSSLKVVDVSNNDLCGTIP
+TSGPFEHIPLNNFENNPRLEGPELLGLASYDTNCS
+>AtLRRP1
+MASRNYRWELFAASLTLTLALIHLVEANSEGDALYALRRSLTDPDHVLQSWDPTLVNPCT
+WFHVTCNQDNRVTRVDLGNSNLSGHLAPELGKLEHLQYLELYKNNIQGTIPSELGNLKNL
+ISLDLYNNNLTGIVPTSLGKLKSLVFLRLNDNRLTGPIPRALTAIPSLKVVDVSSNDLCG
+TIPTNGPFAHIPLQNFENNPRLEGPELLGLASYDTNCT
+>LRP
+MEAVFKTQSLFLKLWGLLAVVLAVAVAVKGNSEGDALYALRRSLSDPGNVLQSWDPNLVN
+PCTWFHVTCNGDNQVTRVDLGNSKLSGHLVPELGKLEHLQYLELYKNNIQGTIPKELGNL
+KSLISLDLYNNNISGTIPTSLGNLKNLVFLRLNDNKLTGPIPRELTSISSLKVVDVSNND
+LCGTIPTSGPFEHIPLNNFEHNPRLEGPELLGLATYDTNCS

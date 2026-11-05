@@ -1,0 +1,8 @@
+#nexus
+begin sets;
+  charset result_3di.fa = alignments/result_3di.fa: ;
+  charset result_aa.fa = alignments/result_aa.fa: ;
+  charpartition mymodels =
+    PMB+F+I+G4: result_3di.fa,
+    BLOSUM62+F+I+G4: result_aa.fa;
+end;

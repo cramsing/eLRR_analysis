@@ -1,0 +1,25 @@
+##gff-version 3
+CaLRR1	manual	Q[A-Za-z]{2}[TS]	190	193	.	-	.	sequence=QVIT
+Co_sLRR	manual	Q[A-Za-z]{2}[TS]	42	45	.	+	.	sequence=QITS
+Co_sLRR	manual	Q[A-Za-z]{2}[TS]	135	138	.	-	.	sequence=QNSS
+Fo_sLRR	manual	Q[A-Za-z]{2}[TS]	75	78	.	-	.	sequence=QHTS
+Pl_sLRR	manual	Q[A-Za-z]{2}[TS]	155	158	.	+	.	sequence=QFTS
+Pl_sLRR	manual	Q[A-Za-z]{2}[TS]	248	251	.	-	.	sequence=QNGS
+Pl_sLRR	manual	Q[A-Za-z]{2}[TS]	211	214	.	-	.	sequence=QTIS
+Pl_sLRR	manual	Q[A-Za-z]{2}[TS]	25	28	.	-	.	sequence=QDLT
+Rcc_sLRR	manual	Q[A-Za-z]{2}[TS]	42	45	.	+	.	sequence=QKVT
+Rcc_sLRR	manual	Q[A-Za-z]{2}[TS]	170	173	.	+	.	sequence=QPSS
+Rcc_sLRR	manual	Q[A-Za-z]{2}[TS]	175	178	.	+	.	sequence=QGYS
+Rcc_sLRR	manual	Q[A-Za-z]{2}[TS]	172	175	.	-	.	sequence=QYSS
+Rcc_sLRR	manual	Q[A-Za-z]{2}[TS]	133	136	.	-	.	sequence=QNNS
+Rc_sLRR	manual	Q[A-Za-z]{2}[TS]	78	81	.	+	.	sequence=QLSS
+Rc_sLRR	manual	Q[A-Za-z]{2}[TS]	175	178	.	+	.	sequence=QVFT
+Rc_sLRR	manual	Q[A-Za-z]{2}[TS]	223	226	.	-	.	sequence=QALS
+MdLRRP1	manual	Q[A-Za-z]{2}[TS]	63	66	.	-	.	sequence=QNCT
+PaLRRP1	manual	Q[A-Za-z]{2}[TS]	62	65	.	-	.	sequence=QNCT
+AtLRRP1	manual	Q[A-Za-z]{2}[TS]	65	68	.	-	.	sequence=QNCT
+OsLRR2	manual	Q[A-Za-z]{2}[TS]	172	175	.	+	.	sequence=QKNS
+OsLRR2	manual	Q[A-Za-z]{2}[TS]	240	243	.	-	.	sequence=QIIT
+OsLRR2	manual	Q[A-Za-z]{2}[TS]	155	158	.	-	.	sequence=QPIT
+OsLRR2	manual	Q[A-Za-z]{2}[TS]	92	95	.	-	.	sequence=QLYS
+ZtLRR	manual	Q[A-Za-z]{2}[TS]	134	137	.	-	.	sequence=QNFS

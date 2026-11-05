@@ -1,0 +1,218 @@
+IQ-TREE version 3.1.3 for MacOS ARM 64-bit built Jul 26 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    Chariss-MacBook-Air.local (SSE4.2, 32 GB RAM)
+Command: iqtree3 -p alignments -B 1000 -m MFP+MERGE
+Seed:    952345 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Oct  5 10:52:04 2026
+Kernel:  SSE2 - 1 threads (10 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 10 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading 2 alignment files...
+Reading alignment file alignments/result_3di.fa ... Fasta format detected
+Reading fasta file: done in 0.000165939 secs using 78.34% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.000412941 secs using 59.81% CPU
+Alignment has 19 sequences with 355 columns, 345 distinct patterns
+231 parsimony-informative, 93 singleton sites, 30 constant sites
+                        Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 2.19345e-05 secs using 86.62% CPU
+   1  coslrr_mature_protein    15.77%    passed     46.66%
+   2  foslrr_mature_protein    15.21%    passed     75.44%
+   3  rcslrr_mature_protein    13.52%    passed     95.94%
+   4  oslrr2_mature_protein    36.62%    passed     80.11%
+   5  plslrr_mature_protein    21.13%    passed     99.02%
+   6  rccslrr_mature_protein   27.32%    passed     41.30%
+   7  ztlrr_mature_protein     27.04%    passed     40.63%
+   8  calrr1_mature_protein    50.14%    passed     94.72%
+   9  lrp_mature_protein       45.35%    passed     99.87%
+  10  nblrrp1_mature_protein   46.20%    passed     99.45%
+  11  atbak1-elrr              42.82%    passed     80.92%
+  12  ntlrp1_mature_protein    42.54%    passed     89.90%
+  13  atfls2-5lrr              55.77%    passed     10.38%
+  14  oslrr1_mature_protein    46.48%    passed     99.93%
+  15  oslrrp1_mature_protein   47.04%    passed     99.02%
+  16  talrrp1_mature_protein   45.92%    passed     99.21%
+  17  mdlrrp1_mature_protein   46.20%    passed     99.94%
+  18  palrrp1_mature_protein   46.20%    passed     99.16%
+  19  atlrrp1_mature_protein   46.20%    passed     98.99%
+WARNING: 2 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                    37.76%  0 sequences failed composition chi2 test (p-value<5%; df=19)
+Reading alignment file alignments/result_aa.fa ... Fasta format detected
+Reading fasta file: done in 0.000174999 secs using 92% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00047183 secs using 66.97% CPU
+Alignment has 19 sequences with 355 columns, 350 distinct patterns
+218 parsimony-informative, 115 singleton sites, 22 constant sites
+                        Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 1.5974e-05 secs using 93.9% CPU
+   1  coslrr_mature_protein    15.77%    passed     23.36%
+   2  foslrr_mature_protein    15.21%    passed     35.26%
+   3  rcslrr_mature_protein    13.52%    passed     22.97%
+   4  oslrr2_mature_protein    36.62%    passed     28.28%
+   5  plslrr_mature_protein    21.13%    passed     78.61%
+   6  rccslrr_mature_protein   27.32%    passed     11.48%
+   7  ztlrr_mature_protein     27.04%    passed     20.55%
+   8  calrr1_mature_protein    50.14%    failed      0.06%
+   9  lrp_mature_protein       45.35%    passed     97.61%
+  10  nblrrp1_mature_protein   46.20%    passed     93.21%
+  11  atbak1-elrr              42.82%    passed     76.36%
+  12  ntlrp1_mature_protein    42.54%    passed     42.42%
+  13  atfls2-5lrr              55.77%    failed      0.00%
+  14  oslrr1_mature_protein    46.48%    passed     97.79%
+  15  oslrrp1_mature_protein   47.04%    passed     97.04%
+  16  talrrp1_mature_protein   45.92%    passed     84.88%
+  17  mdlrrp1_mature_protein   46.20%    passed     95.59%
+  18  palrrp1_mature_protein   46.20%    passed     92.96%
+  19  atlrrp1_mature_protein   46.20%    passed     99.69%
+WARNING: 2 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                    37.76%  2 sequences failed composition chi2 test (p-value<5%; df=19)
+Subset	Type	Seqs	Sites	Infor	Invar	Model	Name
+1		19	355	231	31	MFP+MERGE	result_3di.fa
+2		19	355	218	22	MFP+MERGE	result_aa.fa
+Degree of missing data: 0.000
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.002 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Initial log-likelihood: -13959.547
+Current log-likelihood at step 1: -13504.813
+Current log-likelihood at step 2: -13443.423
+Current log-likelihood at step 3: -13441.585
+Parameters optimization took 2 rounds (0.724 sec)
+
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+Initial log-likelihood: -13433.573
+Current log-likelihood at step 1: -13433.146
+Partition-specific rates:  0.745 1.255
+Parameters optimization took 0 rounds (0.117 sec)
+
+Time for fast ML tree search: 1.069 seconds
+
+NOTE: ModelFinder requires 12 MB RAM!
+
+PartitionFinder's parameters:
+Fast Relaxed Algorithm
+Percentage: 10.000
+Maximum pairs: 20
+
+Selecting individual models for 2 charsets using BIC...
+ModelFinder will allocate partition-specific threads based on partition sizes
+Full partition model BIC score: 26088.866 (LnL: -12788.388  df:78)
+Merging models to increase model fit (about 2 total partition schemes)...
+ModelFinder will allocate partition-specific threads based on partition sizes
+Best partition model BIC score: 25649.116 (LnL: -12568.513  df:78)
+Partition information was printed to alignments.best_scheme.nex
+Partition information in Raxml format was printed to alignments.best_scheme
+
+All model information printed to alignments.model.gz
+CPU time for ModelFinder: 75.994 seconds (0h:1m:15s)
+Wall-clock time for ModelFinder: 76.287 seconds (0h:1m:16s)
+Generating 1000 samples for ultrafast bootstrap (seed: 952345)...
+
+NOTE: 11 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Initial log-likelihood: -12582.860
+Current log-likelihood at step 1: -12563.951
+Current log-likelihood at step 2: -12563.564
+Current log-likelihood at step 3: -12563.526
+Partition-specific rates:  0.787 1.213
+Parameters optimization took 2 rounds (0.549 sec)
+
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 4.19617e-05 secs using 88.18% CPU
+Computing ML distances took 0.000077 sec (of wall-clock time) 0.000058 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 2.09808e-05 secs using 76.26% CPU
+Constructing RapidNJ tree: done in 4.60148e-05 secs using 141.3% CPU
+Computing RapidNJ tree took 0.000123 sec (of wall-clock time) 0.000117 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -14264.270
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.198 second
+Computing log-likelihood of 98 initial trees ... 2.626 seconds
+Current best score: -12563.526
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+Initial log-likelihood: -12563.526
+Current log-likelihood at step 1: -12563.517
+Parameters optimization took 0 rounds (0.111 sec)
+
+BETTER TREE FOUND at iteration 1: -12563.517
+Estimate model parameters (epsilon = 0.100)
+Initial log-likelihood: -12561.288
+Current log-likelihood at step 1: -12560.916
+Current log-likelihood at step 2: -12560.903
+Parameters optimization took 1 rounds (0.288 sec)
+
+BETTER TREE FOUND at iteration 2: -12560.903
+Iteration 10 / LogL: -12564.698 / Time: 0h:1m:23s
+Iteration 20 / LogL: -12563.580 / Time: 0h:1m:27s
+Finish initializing candidate tree set (3)
+Current best tree score: -12560.903 / CPU time: 9.950
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -12563.657 / Time: 0h:1m:31s (0h:0m:38s left)
+Iteration 40 / LogL: -12562.719 / Time: 0h:1m:36s (0h:0m:31s left)
+Iteration 50 / LogL: -12563.348 / Time: 0h:1m:41s (0h:0m:27s left)
+Log-likelihood cutoff on original alignment: -12604.391
+Iteration 60 / LogL: -12560.911 / Time: 0h:1m:47s (0h:0m:22s left)
+Iteration 70 / LogL: -12562.210 / Time: 0h:1m:52s (0h:0m:16s left)
+Iteration 80 / LogL: -12580.794 / Time: 0h:1m:56s (0h:0m:11s left)
+Iteration 90 / LogL: -12568.684 / Time: 0h:2m:1s (0h:0m:6s left)
+Iteration 100 / LogL: -12561.821 / Time: 0h:2m:6s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -12603.212
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+TREE SEARCH COMPLETED AFTER 103 ITERATIONS / Time: 0h:2m:8s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+Initial log-likelihood: -12560.903
+Current log-likelihood at step 1: -12560.899
+Partition-specific rates:  0.794 1.206
+Parameters optimization took 0 rounds (0.108 sec)
+
+Partition information was printed to alignments.best_model.nex
+BEST SCORE FOUND : -12560.899
+Creating bootstrap support values...
+Split supports printed to NEXUS file alignments.splits.nex
+Total tree length: 9.300
+
+Total number of iterations: 103
+CPU time used for tree search: 51.317 sec (0h:0m:51s)
+Wall-clock time used for tree search: 51.422 sec (0h:0m:51s)
+Total CPU time used: 128.360 sec (0h:2m:8s)
+Total wall-clock time used: 128.766 sec (0h:2m:8s)
+
+Computing bootstrap consensus tree...
+Reading input file alignments.splits.nex...
+19 taxa and 105 splits.
+Consensus tree written to alignments.contree
+Reading input trees file alignments.contree
+Log-likelihood of consensus tree: -12560.897
+
+Analysis results written to: 
+  IQ-TREE report:                alignments.iqtree
+  Maximum-likelihood tree:       alignments.treefile
+  Likelihood distances:          alignments.mldist
+  Best partitioning scheme:      alignments.best_scheme.nex
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          alignments.splits.nex
+  Consensus tree:                alignments.contree
+  Screen log file:               alignments.log
+
+Date and Time: Mon Oct  5 10:54:13 2026
