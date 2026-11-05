@@ -1,0 +1,6 @@
+entry_id,n_models_considered,best_model,mean_plddt
+fold_haserk_lrrs_trimmed,5,fold_haserk_lrrs_trimmed_model_0.cif,93.14
+fold_ntserk_5lrrs,5,fold_ntserk_5lrrs_model_0.cif,92.3
+fold_osfls2_5lrrs,5,fold_osfls2_5lrrs_model_1.cif,91.9
+fold_plslrr_trimmed2,5,fold_plslrr_trimmed2_model_2.cif,88.81
+fold_taserk_5lrrs,5,fold_taserk_5lrrs_model_0.cif,92.17
