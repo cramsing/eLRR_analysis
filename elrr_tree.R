@@ -2,7 +2,7 @@
 
 ## ---  tree  --- #### 
 
-library(phangorn)
+
 library(ggtree)
 library(dplyr)
 library(treeio)
